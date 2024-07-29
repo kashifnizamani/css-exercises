@@ -1,0 +1,11 @@
+.name{
+    font-size: 28px;
+    font-family: 'Times New Roman',  Helvetica, sans-serif;
+}
+.name.first{
+    background-color: black;
+    color: white;
+}
+.name.second{
+    background-color: yellow;
+}

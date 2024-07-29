@@ -1,0 +1,17 @@
+.new{
+    background-color: rgb(217, 154, 165);
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.new.second{
+    font-size: x-large;
+}
+#unique{
+    color: blue;
+    font-size: xx-large;
+}
+#unique2{
+    background-color: rgb(154, 203, 154);
+    font-size: larger;
+    font-weight: bold;
+}
